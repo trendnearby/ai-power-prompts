@@ -18,3 +18,4 @@
 ### Quick links:
 - [Sample prompts](sample_prompts.md) (3 free samples)
 - Full package inside
+
